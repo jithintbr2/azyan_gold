@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "536796168309",
+    "project_id": "azyan-52a41",
+    "storage_bucket": "azyan-52a41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536796168309:android:6e7844264bbd3dd3b2383c",
+        "android_client_info": {
+          "package_name": "com.azyan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536796168309-c4n56bqbk1ffalgkkuqjhb193t1qosf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIcWaULaG75vhcOqKvqKFIql21rQggCYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536796168309-c4n56bqbk1ffalgkkuqjhb193t1qosf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
